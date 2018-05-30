@@ -127,7 +127,7 @@ BSLS_IDENT("$Id: $")
 // The 'bdls::FilesystemUtil::read' and 'bdls::FilesystemUtil::write' methods
 // add no atomicity guarantees for reading and writing to those provided (if
 // any) by the underlying platform's methods for reading and writing (see
-// 'http://lwn.net/articles/180387/').
+// 'https://lwn.net/Articles/180387/').
 //
 ///Platform-Specific File Name Encoding Caveats
 ///--------------------------------------------
